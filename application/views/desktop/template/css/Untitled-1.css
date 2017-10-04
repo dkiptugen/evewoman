@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
+<link rel="stylesheet" href="css/w3.css">
+<link href="css/template.css" rel="stylesheet">
+
+<title>Evewoman</title>
+</head>
+
+<body>
+
+
+<div class="container-fluid top-section">
+		
+		<div class="container-fluid  top-section-1">
+				<div class="container">
+					<div class="col-lg-8"></div>
+					<div class="col-lg-4 socialmedia">
+						<ul>
+							<li><img src="img/Facebook.png" width="39" height="40" alt=""/></li>
+							<li><img src="img/twitter.png" width="39" height="40" alt=""/></li>
+							<li><img src="img/telegram.png" width="39" height="40" alt=""/></li>
+							<li><img src="img/whatsapp.png" width="39" height="40" alt=""/></li>
+							<li><img src="img/instagram.png" width="39" height="40" alt=""/></li>
+							<li><img src="img/pintrest.png" width="39" height="40" alt=""/></li>
+						</ul>
+					</div>
+				</div>
+		</div>
+	
+		<div class="container menu-wrapper">
+		<div class=" w3-sidebar w3-bar-block w3-card-2 w3-animate-left" style="display:none" id="leftMenu">
+		<button onclick="closeLeftMenu()" class="w3-bar-item w3-button w3-large">Close &times;</button>
+		<a href="#" class="w3-bar-item w3-button">Link 1</a> <a href="#" class="w3-bar-item w3-button">Link 2</a> <a href="#" class="w3-bar-item w3-button">Link 3</a>
+		</div>
+		<div class="w3-teal">
+		<button class="w3-button w3-teal w3-xlarge w3-left" onclick="openLeftMenu()">&#9776;</button>
+		</div>
+		<div class="col-lg-10 menu">
+			<ul>
+				<li><a href="#">BEAUTY</a></li>
+				<li><a href="#">HEALTH</a></li>
+				<li><a href="#">LIFESTYLE</a></li>
+				<li><a href="#">LOVE</a></li>
+			</ul>		
+		</div>
+		<div class="col-lg-1 search">
+		  <img src="img/search.png" alt=""/>
+		</div>
+		</div>
+
+		<div class="clearboth"></div>
+		
+		<div class="container red menu-wrapper">
+
+		</div>
+
+
+
+<script>
+	function openLeftMenu()
+	{document.getElementById("leftMenu").style.display = "block";}
+	function closeLeftMenu()
+	{document.getElementById("leftMenu").style.display = "none";}
+</script>
+</body>
+</html>

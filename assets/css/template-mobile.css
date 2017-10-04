@@ -1,0 +1,167 @@
+body {padding:0; margin: 0;  font-family: 'Roboto Slab', serif !important; color: #333; line-height: 30px; font-weight: 400;   font-size: : 15px !important; background: #f6f7fa;}
+h1,h2,h3,h4,h5{ padding:0; margin: 0; font-family: 'Roboto Slab', serif !important; }
+.clearboth{clear: both;}
+
+.top-section{ border-top: #F62F5E solid 5px;  padding: 0 !important;  border-bottom: #ccc solid 1px;}
+.top-section-1{ height: 60px; padding: 5px 0;}
+
+.menu ul { padding: 0; margin: 0; font-family: 'Poppins', sans-serif; white-space: nowrap;overflow-x: auto; -webkit-overflow-scrolling:touch; -ms-overflow-style: -ms-autohiding-scrollbar; }
+.menu ul  li{ padding: 12px 8px;  font-weight: 300; font-size: 14px; display:inline-block;  }
+.menu ul  li a:hover{color: #F62F5E !important;  text-decoration: none;}
+.menu ul  li  a{color: #000;}
+.menu ul  li.active-color a{color: #F62F5E !important; font-weight: 500; }
+
+ul.scrollbar li{ width: 150px; float: left; list-style: none}
+
+.search{ padding:6px 0;}
+.red{  background: #f00; height: 300px; }
+.black{  background: #000; height: 300px; }
+.zero-left{ padding-left: 0 !important;}
+.zero-right{ padding-right: 0 !important;}
+.title, .main-info{ margin: 15px 0;}
+.top-wrapper{ padding: 10px;}
+.social-icon{ margin-right: 3px;}
+.btn{ background: #ccc;  margin: 0 2px;}
+
+.content-wrapper{ background: #F1F1F1;  position: absolute; margin: 0 0 0 50px  !important;  top: 280px; padding: 20px;  width: 80%;  z-index: 2; }
+h1.sidetitles{ font-size: 28px;   font-family: 'Roboto Slab', serif !important; text-transform: capitalize !important; color: #F62F61; margin: 0 0 20px 0 !important; font-weight: 700; padding: 0 0 4px 0;}
+h1.sidetitles2{ font-size: 28px;   font-family: 'Roboto Slab', serif !important; text-transform: capitalize !important; color: #F62F61; margin: 0 0 20px 13px !important; font-weight: 700; padding: 0 0 4px 0;}
+h2.category-title{ font-size: 2.2rem;   font-family: 'Roboto Slab', serif !important; text-transform: capitalize !important;  margin: 0 !important; font-weight: 700; padding: 10px  0 4px 0; text-align: center; }
+h2.category-title a{color: #F62F61;}
+
+.breadcrumb{ margin-left: 0 !important; background: none !important; margin-bottom: 0 !important;}
+.breadcrumb>.active{ color: #F62F5E !important;}
+.menu li.active a{ color: #F62F5E !important; font-weight: 500;}
+
+ul.category-tabs{ padding: 0 ; margin:20px auto; }
+ul.category-tabs li{ float: left; padding: 3px 6px; border:#ccc solid 1px; margin: 0 2px; list-style: none;}
+ul.category-tabs li a{color: #000; text-decoration: none}
+ul.category-tabs li a:hover{color: #F62F5E;}
+
+.wrapper{ padding-left: 60px !important; padding-right: 60px !important; margin: 20px 0;}
+.socialmedia ul{ padding: 0; margin:4px 0 0  0;}
+.socialmedia ul li { float: left;  list-style: none; padding: 0 3px; width: 30px;}
+.menu-wrapper{border-bottom: #ccc solid 1px;}
+.featured-section{ margin-bottom: 50px; font-size: 18px; } 
+.wrapper-top{padding: 20px 0;}
+.mobile-wrapper{ padding: 15px;}
+
+.content-wrapper h2{ font-size: 30px; line-height: 30px !important;}
+.featured-section h2{font-size: 34px;  padding: 10px 0; margin: 0 0 20px 0; line-height: 35px;}
+.btn-lg{ background: #F62F5E !important; border-radius: 3px; margin: 20px 0 0 0;  font-family: 'Poppins', sans-serif; }
+.middle{ border-left: #ccc solid 1px; border-right: #ccc solid 1px; }
+.middle ul{ padding: 0; margin: 0;}
+.middle ul li{ list-style: none; margin: 0 0 20px 0; }
+.scrollar{overflow-x:scroll;  white-space:nowrap; overflow-y: hidden;}
+.article-scrollar{width: 300px; background: #f00;}
+#st-1{ text-align: left !important;}
+
+.content{ padding: 30px 0; font-size: 18px; font-weight: 300;}
+.content p:first-child:first-letter {font-size: 60px; line-height: 42px;}
+.content p:first-child:first-letter {display: inline-block;float: left; font-weight: 700; color: #000; text-transform: uppercase; font-size: 51px; line-height: 36px;  padding: 5px 9px 0 0;}
+.top-section-mobile{padding: 5px 8px}
+.content img{width:100% !important;}
+
+h1{font-size: 12px; color: #F62F5E; margin:10px 0 0 0; font-weight: 300;  font-family: 'Roboto Slab', serif  !important;}
+h1 a{ color: #F62F5E; text-decoration: none}
+h1 a:hover{ color: #000; text-decoration: none}
+
+h2{ font-weight: 500; font-size: 18px; line-height: 22px; margin: 5px 0;}
+h2 a{ color: #000; text-decoration: none;  font-family: 'Roboto Slab', serif !important;}
+h2 a:hover{ color: #F62F5E; text-decoration: none}
+
+h3{font-size: 12px; color: #F62F5E; font-weight: 300;  margin: 10px 0; font-family: 'Roboto Slab', serif !important;}
+h3 a{ color: #000; text-decoration: none}
+h3 a:hover{ color: #F62F5E; text-decoration: none}
+
+h4{ font-size: 35px; font-weight: 300; color: #fff;}
+h5{ font-size: 30px; font-weight: 700; color: #000; margin: 10px 0;}
+
+.related-stories { padding: 20px 0;}
+.related-stories h4{color: #F62F5E; font-size: 18px; font-weight: 500; margin: 0 0 20px 0;}
+.main-story h1{ font-size: 12px; color: #F62F5E; margin: 10px 0; font-weight:300;}
+.main-story h2{ font-size: 36px; color: #111111; margin: 10px 0; font-weight: 400; line-height: 36px;}
+.main-story h2 a:hover{ text-decoration: underline; }
+.main-story { font-size: 18px; font-weight: 300;}
+
+.smaller-titles h2{ font-size: 18px; line-height: 22px;}
+.sidebar-advert{ padding: 0 0 30px 0;}
+.w3-button{ margin: 2px 0 0 0;}
+.ad-content-holder{ background:#F2F2F2; padding: 50px 50px !important; height: 444px; font-weight: 300; }
+
+.header h1{ font-size: 12px; color: #F62F5E; font-weight: 300;  }
+.header h2{ font-family: 'Roboto Slab', serif; font-size: 30px; color: #333; line-height: 35px; font-weight: 700;}
+.header h3{font-size: 12px; color: #F62F5E; font-weight: 300; margin: 8px 0;  text-transform: uppercase;}
+
+.sidebar ul{ padding: 0; margin: 0; }
+.sidebar ul li{ list-style: none; border-bottom: #ededed solid 1px; font-family: 'Roboto Slab', serif !important; padding: 0 0 10px 0; }
+.sidebar ul li h2{ font-size: 18px;}
+.sidebar ul li:last-child{border-bottom: none;}
+
+.left-sidebar{ text-align: center;}
+.left-sidebar h5{ font-size: 13px; font-weight:300;}
+.w3-sidebar{font-family: 'Poppins', sans-serif; z-index: 3 }
+a.w3-button{ border-top: #333 solid 1px !important; padding: 0 10px 0 0;}
+
+.footer-1{ margin-bottom: 20px;  font-family: 'Roboto Slab', serif !important;; line-height: 18px;}
+.footer-1 ul{ padding: 0 ; margin:0; }
+.footer-1 ul li{ float: left; padding: 8px 16px; border:#ccc solid 1px; margin: 0 5px; list-style: none;}
+.footer-1 ul li a{color: #000; text-decoration: none}
+.footer-1 ul li a:hover{color: #F62F5E;}
+.adspace{ background: #fff; padding: 20px 0; margin:50px 0; text-align: center;}
+.adspace-2{ background: #fff; padding: 20px 0; text-align: center;}
+.article{  padding: 0 15px; margin: 0 0 30px 0; }
+
+.footer-2{ background: #000; padding:20px; color: #fff; margin: 40px 0 0 0;  font-size: 13px; text-align: center; font-family: 'Roboto Slab', serif !important; line-height: 20px;}
+.footer-2 h4{  font-family: 'Roboto Slab', serif !important;  font-weight: 600;}
+.footer-2 ul{ padding: 0; margin: 0;}
+.footer-2 ul li { list-style: none; font-weight: 300;}
+.footer-2 ul li a{ color: #B3B3B3; text-decoration: none}
+.footer-2 ul li a:hover{color: #F62F5E; }
+
+.featured-column .component-feature-list .feature-item-image { position: absolute;top: 0;    width: 100%;z-index: 0;}
+.featured-column .component-feature-list .feature-item-content { background-clip: content-box;    margin: 0 40px;    padding-bottom: 60px;    position: relative;}
+
+.scroller-parent{  box-sizing: border-box;  padding: 20px;  white-space:nowrap;  overflow-x: scroll;  background: #f5f5f5;}
+.scroller-child {  height:300px; object-position: 100% 100%;  margin-right: 30px; white-space:normal; padding: 10px;  box-sizing: border-box;  background: #3b3b3b;  display: inline-block;}
+.scroller-child img{height:160px; object-fit: cover; width:100%; }
+.share-buttons{white-space: nowrap; padding:20px 0;}
+.share-buttons a{display: inline;}
+
+.sharebar {position: fixed; bottom: 0px; left: 0px;height:50px; width: 100%; z-index: 200;}
+
+.btn-facebook{
+    background:  #3B5998 !important;
+    color:#fff;
+}
+.btn-twitter{
+background:  #55ACEE;
+color:#fff;
+}
+.btn-google{
+    background:  #DD4B39;
+    color:#fff;
+}
+.btn-telegram{
+    background:  rgb(44,165,224);
+    color:#fff;
+}
+.btn-whatsapp{
+background:  rgb(15,190,67);
+color:#fff;
+}
+.btn-linkedin{
+    background:   #007BB6;
+    color:#fff;
+}
+/*
+ * useful variables
+ * --------------------------------------------------
+ */
+
+.bg-white {
+    background:white;
+}
+.b-a-0 {
+    border-radius:0;
+}

@@ -1,0 +1,8 @@
+User-agent: *
+sitemap: http://www.standardmedia.co.ke/evewoman/sitemap
+Disallow: /cgi-bin/
+Disallow: /category/older/*$/video/watch/
+Disallow: /category/12/video/
+Disallow: /m/category/12/video/
+Disallow: /mobile/article/*$/video/
+ 

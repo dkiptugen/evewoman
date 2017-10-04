@@ -1,0 +1,628 @@
+ERROR - 2017-08-20 00:07:13 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/mobile/modules/childCategory.php 12
+ERROR - 2017-08-20 00:07:16 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 00:07:44 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 00:12:49 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 00:13:27 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 00:13:32 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 00:13:32 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 00:15:23 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 00:15:45 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 00:15:45 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 00:15:50 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 00:16:12 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 00:17:00 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 00:17:14 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 00:17:47 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `ktn_video`.`title`, `ktn_video`.`videoURL`, `ktn_video`.`id`, `ktn_video_category`.`name`, `ktn_video`.`publishdate`, `ktn_video`.`description`
+FROM `ktn_video`
+JOIN `ktn_video_category` ON `ktn_video_category`.`id`=`ktn_video`.`categoryid`
+WHERE `id` = '2000114481'
+ERROR - 2017-08-20 00:17:47 --> Severity: Error --> Call to a member function num_rows() on a non-object /home/standard_digital/httpdocs/evewoman/application/models/Article_model.php 191
+ERROR - 2017-08-20 00:24:48 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 00:43:09 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 00:44:33 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 00:49:34 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 00:53:21 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `ktn_video`.`title`, `ktn_video`.`videoURL`, `ktn_video`.`id`, `ktn_video_category`.`name`, `ktn_video`.`publishdate`, `ktn_video`.`description`
+FROM `ktn_video`
+JOIN `ktn_video_category` ON `ktn_video_category`.`id`=`ktn_video`.`categoryid`
+WHERE `id` = '2000112099'
+ERROR - 2017-08-20 00:53:21 --> Severity: Error --> Call to a member function num_rows() on a non-object /home/standard_digital/httpdocs/evewoman/application/models/Article_model.php 191
+ERROR - 2017-08-20 00:56:22 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 00:56:40 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 01:03:42 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 01:03:42 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 01:03:47 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 01:06:25 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 01:09:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 01:15:22 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 01:16:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 01:28:02 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 01:41:29 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 01:44:27 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 01:52:48 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `ktn_video`.`title`, `ktn_video`.`videoURL`, `ktn_video`.`id`, `ktn_video_category`.`name`, `ktn_video`.`publishdate`, `ktn_video`.`description`
+FROM `ktn_video`
+JOIN `ktn_video_category` ON `ktn_video_category`.`id`=`ktn_video`.`categoryid`
+WHERE `id` = '2000115189'
+ERROR - 2017-08-20 01:52:48 --> Severity: Error --> Call to a member function num_rows() on a non-object /home/standard_digital/httpdocs/evewoman/application/models/Article_model.php 191
+ERROR - 2017-08-20 01:57:06 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 01:58:23 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 02:00:21 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 02:03:43 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 02:04:41 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 02:08:06 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 02:08:10 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 02:08:11 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 02:09:09 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 02:18:10 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/mobile/modules/childCategory.php 12
+ERROR - 2017-08-20 02:48:48 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 02:52:58 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 02:53:04 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 02:53:05 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 02:53:06 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 02:53:07 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 02:55:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:01:06 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `ktn_video`.`title`, `ktn_video`.`videoURL`, `ktn_video`.`id`, `ktn_video_category`.`name`, `ktn_video`.`publishdate`, `ktn_video`.`description`
+FROM `ktn_video`
+JOIN `ktn_video_category` ON `ktn_video_category`.`id`=`ktn_video`.`categoryid`
+WHERE `id` = '2000114481'
+ERROR - 2017-08-20 03:01:06 --> Severity: Error --> Call to a member function num_rows() on a non-object /home/standard_digital/httpdocs/evewoman/application/models/Article_model.php 191
+ERROR - 2017-08-20 03:01:37 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:01:42 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:01:58 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:01:58 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:02:03 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:02:03 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:10:04 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:16:03 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `ktn_video`.`title`, `ktn_video`.`videoURL`, `ktn_video`.`id`, `ktn_video_category`.`name`, `ktn_video`.`publishdate`, `ktn_video`.`description`
+FROM `ktn_video`
+JOIN `ktn_video_category` ON `ktn_video_category`.`id`=`ktn_video`.`categoryid`
+WHERE `id` = '2000112099'
+ERROR - 2017-08-20 03:16:03 --> Severity: Error --> Call to a member function num_rows() on a non-object /home/standard_digital/httpdocs/evewoman/application/models/Article_model.php 191
+ERROR - 2017-08-20 03:25:47 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:26:05 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:26:10 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:26:10 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:26:10 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:26:15 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:26:31 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:26:31 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:26:31 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:26:31 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:26:41 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:26:42 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:26:42 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:26:47 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:27:03 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:27:08 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:27:08 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:27:14 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:27:18 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:27:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:27:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:27:23 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:27:34 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:27:39 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:27:39 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:29:11 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:29:15 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:29:16 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:34:31 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:39:17 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:39:33 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:39:37 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:41:07 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:44:53 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:44:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:44:58 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 03:46:32 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `ktn_video`.`title`, `ktn_video`.`videoURL`, `ktn_video`.`id`, `ktn_video_category`.`name`, `ktn_video`.`publishdate`, `ktn_video`.`description`
+FROM `ktn_video`
+JOIN `ktn_video_category` ON `ktn_video_category`.`id`=`ktn_video`.`categoryid`
+WHERE `id` = '2000115190'
+ERROR - 2017-08-20 03:46:32 --> Severity: Error --> Call to a member function num_rows() on a non-object /home/standard_digital/httpdocs/evewoman/application/models/Article_model.php 191
+ERROR - 2017-08-20 04:03:42 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 04:05:37 --> Query error: MySQL server has gone away - Invalid query: SELECT *
+FROM `std_article`
+WHERE `id` = '2000214605'
+AND `inactive` is null
+ERROR - 2017-08-20 04:05:37 --> Query error: MySQL server has gone away - Invalid query: SELECT *
+FROM `std_article`
+WHERE `id` = '2000147378'
+AND `inactive` is null
+ERROR - 2017-08-20 04:05:37 --> Query error: MySQL server has gone away - Invalid query: SELECT *
+FROM `std_article`
+WHERE `id` = '2000173042'
+AND `inactive` is null
+ERROR - 2017-08-20 04:05:37 --> Severity: Error --> Call to a member function num_rows() on a non-object /home/standard_digital/httpdocs/evewoman/application/models/Article_model.php 129
+ERROR - 2017-08-20 04:05:37 --> Severity: Error --> Call to a member function num_rows() on a non-object /home/standard_digital/httpdocs/evewoman/application/models/Article_model.php 129
+ERROR - 2017-08-20 04:05:37 --> Severity: Error --> Call to a member function num_rows() on a non-object /home/standard_digital/httpdocs/evewoman/application/models/Article_model.php 129
+ERROR - 2017-08-20 04:15:40 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/mobile/modules/childCategory.php 12
+ERROR - 2017-08-20 04:21:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 04:39:02 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 04:54:58 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 05:01:41 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 05:01:41 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 05:01:46 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 05:07:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 05:18:32 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 05:21:01 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 05:21:01 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 05:21:06 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 05:21:49 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 05:27:43 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 05:29:03 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 05:29:14 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 05:29:14 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 05:29:14 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 05:29:15 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 05:29:25 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 05:29:25 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 05:29:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 05:30:36 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 05:33:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 05:51:56 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `ktn_video`.`title`, `ktn_video`.`videoURL`, `ktn_video`.`id`, `ktn_video_category`.`name`, `ktn_video`.`publishdate`, `ktn_video`.`description`
+FROM `ktn_video`
+JOIN `ktn_video_category` ON `ktn_video_category`.`id`=`ktn_video`.`categoryid`
+WHERE `id` = '2000112099'
+ERROR - 2017-08-20 05:51:56 --> Severity: Error --> Call to a member function num_rows() on a non-object /home/standard_digital/httpdocs/evewoman/application/models/Article_model.php 191
+ERROR - 2017-08-20 05:53:17 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 05:53:30 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/mobile/modules/childCategory.php 12
+ERROR - 2017-08-20 06:02:22 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 06:02:45 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 06:02:51 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 06:09:13 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 06:09:14 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 06:16:56 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 06:20:02 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 06:26:16 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 06:32:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 06:33:48 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 06:40:14 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 06:40:15 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 06:42:49 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 06:43:20 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 06:43:20 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 06:43:20 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 06:52:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 06:53:44 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 06:54:15 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 07:02:16 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 07:07:07 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 07:12:59 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 07:20:10 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 07:22:37 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 07:27:45 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 07:28:39 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 07:31:12 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 07:33:37 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 07:36:34 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 07:37:13 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 07:37:13 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 07:37:51 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 07:37:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 07:45:45 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 07:48:51 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/mobile/modules/childCategory.php 12
+ERROR - 2017-08-20 07:49:41 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 07:52:30 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:01:30 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:04:27 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:07:20 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:07:42 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:13:09 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:15:14 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:15:14 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:15:14 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:15:15 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:15:42 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:15:57 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:25:47 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:28:38 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:40:37 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:40:38 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:41:40 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:42:03 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:42:07 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:46:32 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:46:33 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:46:37 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:46:38 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:46:53 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:47:03 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:47:04 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:47:08 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:47:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:47:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:47:29 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:47:29 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:47:34 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:47:34 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:47:45 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:47:49 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:47:49 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:47:50 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:48:00 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:48:11 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:48:21 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:48:22 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:48:26 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:48:32 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:48:37 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:48:43 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:48:53 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:48:58 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:48:58 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:48:59 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:49:03 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:49:18 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:49:28 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:49:34 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:49:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:50:10 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:50:10 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:50:15 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:50:15 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:50:16 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:50:20 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:51:08 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:51:09 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:51:14 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:51:14 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:53:50 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 08:57:21 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 09:00:25 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 09:00:25 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 09:06:57 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `ktn_video`.`title`, `ktn_video`.`videoURL`, `ktn_video`.`id`, `ktn_video_category`.`name`, `ktn_video`.`publishdate`, `ktn_video`.`description`
+FROM `ktn_video`
+JOIN `ktn_video_category` ON `ktn_video_category`.`id`=`ktn_video`.`categoryid`
+WHERE `id` = '2000112099'
+ERROR - 2017-08-20 09:06:57 --> Severity: Error --> Call to a member function num_rows() on a non-object /home/standard_digital/httpdocs/evewoman/application/models/Article_model.php 191
+ERROR - 2017-08-20 09:09:42 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `ktn_video`.`title`, `ktn_video`.`videoURL`, `ktn_video`.`id`, `ktn_video_category`.`name`, `ktn_video`.`publishdate`, `ktn_video`.`description`
+FROM `ktn_video`
+JOIN `ktn_video_category` ON `ktn_video_category`.`id`=`ktn_video`.`categoryid`
+WHERE `id` = '2000114480'
+ERROR - 2017-08-20 09:09:42 --> Severity: Error --> Call to a member function num_rows() on a non-object /home/standard_digital/httpdocs/evewoman/application/models/Article_model.php 191
+ERROR - 2017-08-20 09:13:43 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 09:13:46 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 09:13:47 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 09:15:50 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 09:15:51 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 09:15:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 09:16:49 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 09:16:53 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 09:16:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 09:19:04 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 09:21:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 09:23:26 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 09:25:01 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 09:27:28 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 09:36:26 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 09:42:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 09:45:44 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 09:50:27 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 09:53:43 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 10:07:08 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 10:07:30 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 10:07:34 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 10:20:30 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/mobile/modules/childCategory.php 12
+ERROR - 2017-08-20 10:26:12 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 10:26:22 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 10:29:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/mobile/modules/childCategory.php 12
+ERROR - 2017-08-20 10:29:56 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/mobile/modules/childCategory.php 12
+ERROR - 2017-08-20 10:43:21 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 10:46:11 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 10:46:12 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 10:46:12 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 10:46:17 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 10:46:17 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 10:49:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 10:49:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 10:50:00 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 10:50:45 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 11:09:49 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 11:10:20 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 11:13:51 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 11:19:08 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 11:21:25 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 11:21:59 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 11:22:00 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 11:22:04 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 11:23:57 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 11:24:44 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 11:29:40 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 11:29:42 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 11:29:43 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 11:29:45 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 11:33:45 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 11:33:50 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 11:33:50 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 11:34:16 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 11:36:53 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 11:39:45 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 11:46:29 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 11:46:38 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 11:50:18 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 11:57:56 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 11:58:06 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 12:03:50 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 12:19:00 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 12:19:00 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 12:19:01 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 12:21:13 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/mobile/modules/childCategory.php 12
+ERROR - 2017-08-20 12:23:34 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 12:26:15 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 12:28:36 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 12:29:36 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 12:29:38 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 12:31:13 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 12:32:17 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 12:45:35 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 12:45:37 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 12:53:46 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 13:03:39 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 13:03:43 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 13:03:43 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 13:03:44 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 13:04:37 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 13:10:40 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/mobile/modules/childCategory.php 12
+ERROR - 2017-08-20 13:12:52 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `ktn_video`.`title`, `ktn_video`.`videoURL`, `ktn_video`.`id`, `ktn_video_category`.`name`, `ktn_video`.`publishdate`, `ktn_video`.`description`
+FROM `ktn_video`
+JOIN `ktn_video_category` ON `ktn_video_category`.`id`=`ktn_video`.`categoryid`
+WHERE `id` = '2000114481'
+ERROR - 2017-08-20 13:12:52 --> Severity: Error --> Call to a member function num_rows() on a non-object /home/standard_digital/httpdocs/evewoman/application/models/Article_model.php 191
+ERROR - 2017-08-20 13:16:40 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 13:19:50 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 13:19:53 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 13:20:42 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 13:20:48 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 13:23:17 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `ktn_video`.`title`, `ktn_video`.`videoURL`, `ktn_video`.`id`, `ktn_video_category`.`name`, `ktn_video`.`publishdate`, `ktn_video`.`description`
+FROM `ktn_video`
+JOIN `ktn_video_category` ON `ktn_video_category`.`id`=`ktn_video`.`categoryid`
+WHERE `id` = '2000112099'
+ERROR - 2017-08-20 13:23:17 --> Severity: Error --> Call to a member function num_rows() on a non-object /home/standard_digital/httpdocs/evewoman/application/models/Article_model.php 191
+ERROR - 2017-08-20 13:23:24 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 13:28:42 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/mobile/modules/childCategory.php 12
+ERROR - 2017-08-20 13:31:07 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 13:31:12 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 13:31:12 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 13:31:53 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 13:37:30 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `ktn_video`.`title`, `ktn_video`.`videoURL`, `ktn_video`.`id`, `ktn_video_category`.`name`, `ktn_video`.`publishdate`, `ktn_video`.`description`
+FROM `ktn_video`
+JOIN `ktn_video_category` ON `ktn_video_category`.`id`=`ktn_video`.`categoryid`
+WHERE `id` = '2000098884'
+ERROR - 2017-08-20 13:37:30 --> Severity: Error --> Call to a member function num_rows() on a non-object /home/standard_digital/httpdocs/evewoman/application/models/Article_model.php 191
+ERROR - 2017-08-20 13:40:48 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 13:42:30 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 13:42:34 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 13:42:35 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 13:42:50 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 13:42:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 13:43:04 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 13:55:22 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 13:55:27 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 13:58:11 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 14:16:35 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 14:17:30 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 14:23:50 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 14:29:04 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 14:29:15 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 14:30:45 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 14:30:46 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 14:30:59 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 14:36:37 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 14:38:05 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 14:53:04 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 14:54:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 15:06:15 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 15:11:47 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 15:13:16 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 15:15:11 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 15:15:47 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 15:15:49 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 15:15:50 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 15:22:56 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 15:23:23 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 15:24:47 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 15:26:39 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 15:30:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 15:31:18 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 15:33:00 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 15:40:50 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `ktn_video`.`title`, `ktn_video`.`videoURL`, `ktn_video`.`id`, `ktn_video_category`.`name`, `ktn_video`.`publishdate`, `ktn_video`.`description`
+FROM `ktn_video`
+JOIN `ktn_video_category` ON `ktn_video_category`.`id`=`ktn_video`.`categoryid`
+WHERE `id` = '2000098884'
+ERROR - 2017-08-20 15:40:50 --> Severity: Error --> Call to a member function num_rows() on a non-object /home/standard_digital/httpdocs/evewoman/application/models/Article_model.php 191
+ERROR - 2017-08-20 15:54:51 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/mobile/modules/childCategory.php 12
+ERROR - 2017-08-20 16:02:45 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 16:05:56 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 16:07:53 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 16:12:21 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 16:29:34 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 16:31:04 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 16:32:29 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 16:33:41 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 16:40:02 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 16:49:21 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 16:49:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 16:50:17 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 16:50:36 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 16:51:04 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/mobile/modules/childCategory.php 12
+ERROR - 2017-08-20 16:54:32 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 16:58:33 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 16:59:29 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/mobile/modules/childCategory.php 12
+ERROR - 2017-08-20 17:20:21 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `ktn_video`.`title`, `ktn_video`.`videoURL`, `ktn_video`.`id`, `ktn_video_category`.`name`, `ktn_video`.`publishdate`, `ktn_video`.`description`
+FROM `ktn_video`
+JOIN `ktn_video_category` ON `ktn_video_category`.`id`=`ktn_video`.`categoryid`
+WHERE `id` = '2000112099'
+ERROR - 2017-08-20 17:20:21 --> Severity: Error --> Call to a member function num_rows() on a non-object /home/standard_digital/httpdocs/evewoman/application/models/Article_model.php 191
+ERROR - 2017-08-20 17:20:27 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 17:22:08 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 17:33:15 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 17:34:12 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 17:34:33 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `ktn_video`.`title`, `ktn_video`.`videoURL`, `ktn_video`.`id`, `ktn_video_category`.`name`, `ktn_video`.`publishdate`, `ktn_video`.`description`
+FROM `ktn_video`
+JOIN `ktn_video_category` ON `ktn_video_category`.`id`=`ktn_video`.`categoryid`
+WHERE `id` = '2000112099'
+ERROR - 2017-08-20 17:34:33 --> Severity: Error --> Call to a member function num_rows() on a non-object /home/standard_digital/httpdocs/evewoman/application/models/Article_model.php 191
+ERROR - 2017-08-20 17:39:24 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 17:39:31 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 17:40:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 17:43:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 17:44:32 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 17:45:25 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 17:46:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 17:49:42 --> Severity: Notice --> Undefined index: HTTP_USER_AGENT /home/standard_digital/httpdocs/evewoman/application/libraries/Assist.php 149
+ERROR - 2017-08-20 17:51:43 --> Severity: Notice --> Undefined index: HTTP_USER_AGENT /home/standard_digital/httpdocs/evewoman/application/libraries/Assist.php 149
+ERROR - 2017-08-20 17:53:32 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 17:53:33 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 17:58:07 --> Severity: Notice --> Undefined index: HTTP_USER_AGENT /home/standard_digital/httpdocs/evewoman/application/libraries/Assist.php 149
+ERROR - 2017-08-20 17:58:53 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `ktn_video`.`title`, `ktn_video`.`videoURL`, `ktn_video`.`id`, `ktn_video_category`.`name`, `ktn_video`.`publishdate`, `ktn_video`.`description`
+FROM `ktn_video`
+JOIN `ktn_video_category` ON `ktn_video_category`.`id`=`ktn_video`.`categoryid`
+WHERE `id` = '2000098884'
+ERROR - 2017-08-20 17:58:53 --> Severity: Error --> Call to a member function num_rows() on a non-object /home/standard_digital/httpdocs/evewoman/application/models/Article_model.php 191
+ERROR - 2017-08-20 18:00:18 --> Severity: Notice --> Undefined index: HTTP_USER_AGENT /home/standard_digital/httpdocs/evewoman/application/libraries/Assist.php 149
+ERROR - 2017-08-20 18:02:36 --> Severity: Notice --> Undefined index: HTTP_USER_AGENT /home/standard_digital/httpdocs/evewoman/application/libraries/Assist.php 149
+ERROR - 2017-08-20 18:03:29 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 18:03:36 --> Severity: Notice --> Undefined index: HTTP_USER_AGENT /home/standard_digital/httpdocs/evewoman/application/libraries/Assist.php 149
+ERROR - 2017-08-20 18:04:39 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/mobile/modules/childCategory.php 12
+ERROR - 2017-08-20 18:10:05 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `ktn_video`.`title`, `ktn_video`.`videoURL`, `ktn_video`.`id`, `ktn_video_category`.`name`, `ktn_video`.`publishdate`, `ktn_video`.`description`
+FROM `ktn_video`
+JOIN `ktn_video_category` ON `ktn_video_category`.`id`=`ktn_video`.`categoryid`
+WHERE `id` = '2000098884'
+ERROR - 2017-08-20 18:10:05 --> Severity: Error --> Call to a member function num_rows() on a non-object /home/standard_digital/httpdocs/evewoman/application/models/Article_model.php 191
+ERROR - 2017-08-20 18:10:37 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 18:13:21 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 18:16:50 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 18:16:51 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 18:17:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 18:23:18 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 18:28:07 --> Severity: Notice --> Undefined index: HTTP_USER_AGENT /home/standard_digital/httpdocs/evewoman/application/libraries/Assist.php 149
+ERROR - 2017-08-20 18:28:25 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 18:30:05 --> Severity: Notice --> Undefined index: HTTP_USER_AGENT /home/standard_digital/httpdocs/evewoman/application/libraries/Assist.php 149
+ERROR - 2017-08-20 18:31:08 --> Severity: Notice --> Undefined index: HTTP_USER_AGENT /home/standard_digital/httpdocs/evewoman/application/libraries/Assist.php 149
+ERROR - 2017-08-20 18:32:18 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 18:35:26 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 18:40:07 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 18:41:36 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 18:47:26 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 18:51:12 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 18:52:40 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 18:53:02 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 18:54:37 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 18:55:30 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `ktn_video`.`title`, `ktn_video`.`videoURL`, `ktn_video`.`id`, `ktn_video_category`.`name`, `ktn_video`.`publishdate`, `ktn_video`.`description`
+FROM `ktn_video`
+JOIN `ktn_video_category` ON `ktn_video_category`.`id`=`ktn_video`.`categoryid`
+WHERE `id` = '2000114479'
+ERROR - 2017-08-20 18:55:30 --> Severity: Error --> Call to a member function num_rows() on a non-object /home/standard_digital/httpdocs/evewoman/application/models/Article_model.php 191
+ERROR - 2017-08-20 18:59:28 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/mobile/modules/childCategory.php 12
+ERROR - 2017-08-20 19:09:26 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 19:09:31 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 19:09:33 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 19:10:39 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 19:14:18 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 19:14:18 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 19:14:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 19:14:30 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 19:16:12 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 19:18:25 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 19:18:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 19:18:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 19:30:21 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 19:30:59 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 19:31:22 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 19:40:00 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/mobile/modules/childCategory.php 12
+ERROR - 2017-08-20 19:49:58 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 19:55:26 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 19:57:02 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 19:58:57 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 20:16:09 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 20:18:15 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 20:20:28 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 20:22:28 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 20:26:58 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 20:33:05 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 20:36:42 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 20:40:07 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 20:44:02 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `ktn_video`.`title`, `ktn_video`.`videoURL`, `ktn_video`.`id`, `ktn_video_category`.`name`, `ktn_video`.`publishdate`, `ktn_video`.`description`
+FROM `ktn_video`
+JOIN `ktn_video_category` ON `ktn_video_category`.`id`=`ktn_video`.`categoryid`
+WHERE `id` = '2000112099'
+ERROR - 2017-08-20 20:44:02 --> Severity: Error --> Call to a member function num_rows() on a non-object /home/standard_digital/httpdocs/evewoman/application/models/Article_model.php 191
+ERROR - 2017-08-20 20:44:16 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 20:44:24 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/mobile/modules/childCategory.php 12
+ERROR - 2017-08-20 20:44:32 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 20:47:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 20:53:05 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 20:53:29 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 20:53:43 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 20:53:45 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 20:53:48 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 20:53:50 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 20:53:51 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 20:57:43 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 20:58:34 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 20:58:38 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 20:58:38 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 20:58:39 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 20:58:43 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 20:58:46 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 20:58:52 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 21:00:57 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 21:02:30 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 21:02:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 21:05:04 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 21:05:14 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 21:16:08 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 21:20:25 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 21:20:34 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 21:34:04 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 21:45:40 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 21:58:01 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 21:58:02 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 21:58:02 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 21:58:06 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 21:58:06 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 21:59:33 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 22:01:18 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 22:02:44 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 22:03:12 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 22:07:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 22:11:05 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 22:16:31 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 22:22:00 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 22:25:17 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 22:32:28 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 22:34:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 22:38:21 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 22:43:03 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 22:45:09 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/mobile/modules/childCategory.php 12
+ERROR - 2017-08-20 22:45:21 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 22:48:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 22:55:34 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `ktn_video`.`title`, `ktn_video`.`videoURL`, `ktn_video`.`id`, `ktn_video_category`.`name`, `ktn_video`.`publishdate`, `ktn_video`.`description`
+FROM `ktn_video`
+JOIN `ktn_video_category` ON `ktn_video_category`.`id`=`ktn_video`.`categoryid`
+WHERE `id` = '2000112099'
+ERROR - 2017-08-20 22:55:34 --> Severity: Error --> Call to a member function num_rows() on a non-object /home/standard_digital/httpdocs/evewoman/application/models/Article_model.php 191
+ERROR - 2017-08-20 22:56:38 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `ktn_video`.`title`, `ktn_video`.`videoURL`, `ktn_video`.`id`, `ktn_video_category`.`name`, `ktn_video`.`publishdate`, `ktn_video`.`description`
+FROM `ktn_video`
+JOIN `ktn_video_category` ON `ktn_video_category`.`id`=`ktn_video`.`categoryid`
+WHERE `id` = '2000114481'
+ERROR - 2017-08-20 22:56:38 --> Severity: Error --> Call to a member function num_rows() on a non-object /home/standard_digital/httpdocs/evewoman/application/models/Article_model.php 191
+ERROR - 2017-08-20 23:05:33 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 23:30:06 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 23:31:04 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 23:34:24 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 23:36:20 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/mobile/modules/childCategory.php 12
+ERROR - 2017-08-20 23:37:02 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/mobile/modules/childCategory.php 12
+ERROR - 2017-08-20 23:38:41 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 23:39:07 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 23:39:12 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 23:48:42 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 23:49:24 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 23:50:02 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 23:55:05 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 23:55:22 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 23:56:00 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 23:56:03 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 23:56:05 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 23:56:43 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 23:59:38 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21
+ERROR - 2017-08-20 23:59:57 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/evewoman/application/views/desktop/modules/childCategory.php 21

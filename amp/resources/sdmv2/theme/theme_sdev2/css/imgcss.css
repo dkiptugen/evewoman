@@ -1,0 +1,129 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 10, 2015, 11:59:37 AM
+    Author     : jkidambi
+*/
+.content img{
+    max-width: 100%;
+}
+.mgin{
+        margin-left: -35px;
+}
+.mm-advert{
+margin-top: 10px;
+margin-right: 10px;
+margin-bottom: 10px;
+float: left;
+}
+.sim-img img, .slide-img img, .cat-page-main img, .latest-story-img img, .home-top-img img, .top-cat-img-small img, .top-cat-img img, .nai-pulse-home-img img{
+    width: 100%;
+}
+.comments{
+    width: 90%;
+    margin: auto;
+}
+.img-gl{
+    width: 184px;
+    height: 123px;
+    overflow: hidden;  
+}
+.sim-img{
+    width: 255px;
+    height: 168px;
+    overflow: hidden; 
+}
+.slide-img{
+    width: 106px;
+    height: 59px;
+    overflow: hidden;
+}
+.latest-story-img{
+    width: 66px;
+    height: 47px;
+    overflow: hidden;
+}
+.home-top-img{
+    width: 248px;
+    height: 162px;
+    overflow: hidden;
+}
+.top-cat-img-small{
+    width: 184px;
+    height: 104px;
+    overflow: hidden;
+}
+.top-cat-img{
+    width: 398px;
+    height: 201px;
+    overflow: hidden;
+}
+.nai-pulse-home-img{
+    width: 255px;
+    height: 166px;
+    overflow: hidden;
+}
+.cat-page-main{
+    width: 398px;
+    height: 201px;
+    overflow: hidden;
+}
+.video_iframe{
+    width: 820px;
+    height: 446px;
+}
+
+@media screen and (max-width: 760){
+    .mgin{
+        margin-left: 0px;
+    }
+    .latest-story-img{
+        width: 235px;
+           height: 200px;
+    }
+    .video_iframe{
+    width: 100%;
+    height: 446px;
+}
+.sim-img{
+    width: 100%;
+    height: 168px; 
+}
+}
+
+@media screen and (max-width: 520px) {
+   .cat-page-main, .latest-story-img, .nai-pulse-home-img, .top-cat-img-small, .top-cat-img, .home-top-img{
+        width: 100%;
+    }
+	.top-cat-img-small{	
+    height: 170px;
+	}
+    .sim-img{
+    width: 100%;
+    height: 168px; 
+}
+    .video_iframe{
+    width: 100%;
+    height: 200px;
+}
+  .latest-story-img{
+        width: 100%;
+           height: 200px;
+    }
+    .video_iframe{
+    width: 100%;
+    height: 446px;
+}
+}
+@media screen and (max-width: 320px) {
+   .cat-page-main, .latest-story-img, .nai-pulse-home-img, .top-cat-img-small, .top-cat-img, .home-top-img{
+        width: 100%;
+    }
+    .video_iframe{
+    width: 100%;
+    height: 180px;
+}
+}
